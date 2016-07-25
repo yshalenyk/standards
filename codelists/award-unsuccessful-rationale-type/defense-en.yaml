@@ -1,0 +1,33 @@
+eligibilityIssues:
+  description_en: Existing grounds to reject a tender proposal specified in article 17 and paragraph seven of article 28 of the law on public procurement
+  title_en: Due to existing grounds specified in article 17
+invalidPrice:
+  description_en: ''
+  title_en: Participant's refusal to take part in the negotiation with the price/normalized price submitted as a result of the conducted auction
+noCorrectedDocs:
+  description_en: ''
+  title_en: Failure to eliminate drawbacks in the submitted documents in the next 24 hours after participant's familiarization with those drawbacks during the negotiation
+noGuarantee:
+  description_en: ''
+  title_en: Absence of guarantee submission confirmation
+noNegotiation:
+  description_en: On the date specified by the procuring entity
+  title_en: Refusal or failure to participate in the negotiation appointed by the procuring entity
+noSampleProvided:
+  description_en: And/or compliance verification to other tender subject requirements of the procuring entity, specified in the tender announcement, or of the eligibility to qualitative and quantitative characteristics documents, specified by the procuring entity
+  title_en: Participant's failure or delay of providing a product unit for sample-standard compliance verification
+priorViolation:
+  description_en:
+  - Did not participate or refused to participate in the negotiation procurement procedure before the publication of the notice of intention to conclude a contract - more than three times
+  - Refused to sign the procurement contract during the period specified by the procuring entity - more than two times
+  - Had not fulfilled contract conditions about the quality and/or period of delivered goods, works, services - more than once.
+  title_en: A participant in one year before the electronic auction has committed a violation against the same procuring entity
+qualificationIncompliance:
+  description_en: Participant does not meet the qualification criterion criteria established in the tender documentation
+  title_en: Does not meet the qualification criteria
+qualityQuantityIncompliance:
+  description_en: ''
+  title_en: Non-compliance of the participant's goods, works or services to the technical, qualitative and quantitative characteristics of the procurement subject
+tenderDocsIncompliance:
+  description_en: The tender proposal does not meet the tender documentation requirements
+  title_en: Does not meet the tender documentation requirements
